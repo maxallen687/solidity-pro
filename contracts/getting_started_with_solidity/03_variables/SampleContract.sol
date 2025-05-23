@@ -11,9 +11,9 @@ contract SampleContract {
 
     function getResult() public pure returns (uint256) {
         //local variable
-        uint256 a = 7;
+        uint256 a = 10;
         //local variable
-        uint256 b = 3;
+        uint256 b = 12;
         uint256 result = a + b;
         //access the local variable
         return result;
