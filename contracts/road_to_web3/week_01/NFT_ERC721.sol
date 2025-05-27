@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-//
+
 // https://docs.alchemy.com/docs/how-to-develop-an-nft-smart-contract-erc721-with-alchemy
 
 pragma solidity ^0.8.9;
