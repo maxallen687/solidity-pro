@@ -10,7 +10,7 @@ contract MyContract {
     address public owner;
     uint256 public createdAt;
 
-    constructor(uint256 _x, uint256 _y) {
+    constructor(uint128 _x, uint128 _y) {
         x = _x;
         y = _y;
         owner = msg.sender;
