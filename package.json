@@ -31,7 +31,7 @@
     "chai": "^4.3.10",
     "ethers": "^5.7.2",
     "hardhat": "^2.17.4",
-    "hardhat-gas-reporter": "^1.0.9",
+    "hardhat-gas-reporter": "^2.3.0",
     "prettier": "^3.0.3",
     "solidity-coverage": "^0.7.22",
     "solidity-shell": "^0.2.4",
